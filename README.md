@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 # <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m elifturhann</h1>
-<h3 align="center">I’m elifturhann from Turkey, I am a passionate fullstack developer, excited to learn new things, interested in writing new codes.</h3>
+<h3 align="center">I’m Elif from Turkey, I am a passionate full-stack developer, excited to learn new things, and interested in writing new codes.</h3>
 ## Skills and Experience
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
@@ -23,7 +23,9 @@
 <p>:flag-tr: Turkish</p>
 <p>:us: English</p>
 ## Reach Me
-<a href="https://linkedin.com/in/XXX” target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/XXX” target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="40" height="40"/> </a>
+
+
 
 (59 kB)
 https://i.imgur.com/iXuL1HG.png
